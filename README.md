@@ -1,4 +1,8 @@
-## Hi there 👋
+## Welcome to my page!
+
+My name is Thomas and I am a computer science student studying at the Georgia Institute of Technology. I am interested in machine learning and data structures. 
+
+Here's how to reach me on LinkedIn - https://www.linkedin.com/thomasxiuyang
 
 <!--
 **thomasy666/thomasy666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
