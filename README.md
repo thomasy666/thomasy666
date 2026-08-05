@@ -7,7 +7,7 @@ Welcome to my page!
 - 📍 Atlanta, Georgia
   
 ## What I've Worked On
-<!--### Voice Gateway
+### [Voice Gateway](https://github.com/thomasy666/newapi-voice-gateway)
 
 A provider-neutral speech platform that supports multiple automatic speech recognition providers through a unified interface.
 
@@ -18,7 +18,8 @@ A provider-neutral speech platform that supports multiple automatic speech recog
 - Added health checks, retries, failure recovery, and usage tracking
 - Built duration-based billing and provider cost analytics
 - Created administrative tools, UI, and deployment documentation
--->
+
+**Tech:** Go, REST APIs, WebSockets, Google Cloud Speech-to-Text, iFLYTEK
 ### [FlightAI](https://github.com/thomasy666/flightai)
 
 A neural network model that predicts flight delays using affecting variables
